@@ -1,4 +1,3 @@
-```markdown
 # Go Gin/Dig Modular Web Service
 
 A production-ready web service template using Gin web framework and Uber's Dig for dependency injection, featuring automated module registration and scalable architecture.
